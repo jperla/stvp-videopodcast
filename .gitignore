@@ -1,2 +1,5 @@
 /repository*
 *.pyc
+*.xml
+*.swp
+shelf.*
