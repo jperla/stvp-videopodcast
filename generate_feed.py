@@ -62,5 +62,5 @@ videos = sort_by_date_then_id(videos)
 
 rss = make_rss(videos)
 
-rss.write_xml(open('/var/www/stvp/final.xml', 'w'))
+rss.write_xml(open('stvp.xml', 'w'))
 
